@@ -58,6 +58,13 @@ python3 purge-branches.py
 
 ```
 
+##### `git-rm-obsolete-local-branches.py`
+```bash
+# remove obsolete local branches that no longer exist on the remote side
+python3 git-rm-obsolete-local-branches.py
+
+```
+
 #### Contribute
 Contributions are welcome. Have new ideas? please open new [Feature request](https://github.com/digitalduke/git-tools/issues/new?template=feature_request.md). If you find any bugs, please open [Bug report](https://github.com/digitalduke/git-tools/issues/new?template=bug_report.md) in order to report it.
 
